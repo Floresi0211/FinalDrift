@@ -1,10 +1,4 @@
-// --- All-in-One Vehicle Rental System with Main Class ---
-
-// Import necessary Java utilities and time packages
 import java.util.*;
-import java.time.LocalDateTime;
-
-// === Supporting Classes ===
 
 // Define the base Vehicle class
 class Vehicle {
